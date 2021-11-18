@@ -82,7 +82,7 @@ p {
 
 /* mainvisual */
 .mainvisual {
-  background-image: url(/img/film.png),url(/img/propose.jpg);
+  background-image: url(https://github.com/hirosora8534/smilesurprise/blob/main/film.png?raw=true),url(https://github.com/hirosora8534/smilesurprise/blob/main/propose.jpg?raw=true);
   background-size: cover;
   background-position: center;
   height: 100vh;
