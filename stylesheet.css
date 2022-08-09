@@ -82,7 +82,7 @@ p {
 
 /* mainvisual */
 .mainvisual {
-  background-image: url(img/film.png),url(img/propose.jpg);
+  background-image: url(/img/film.png),url(/img/propose.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
